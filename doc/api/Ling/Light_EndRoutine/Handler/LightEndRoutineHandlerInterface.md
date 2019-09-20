@@ -52,4 +52,4 @@ See the source code of [Ling\Light_EndRoutine\Handler\LightEndRoutineHandlerInte
 
 SeeAlso
 ==============
-Next class: [Light_EndRoutineService](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService.md)<br>
+Previous class: [ContainerAwareLightEndRoutineHandler](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/ContainerAwareLightEndRoutineHandler.md)<br>Next class: [Light_EndRoutineService](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService.md)<br>

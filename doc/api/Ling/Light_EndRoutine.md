@@ -8,6 +8,10 @@ Ling/Light_EndRoutine
 Table of contents
 ===========
 
+- [ContainerAwareLightEndRoutineHandler](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/ContainerAwareLightEndRoutineHandler.md) &ndash; The ContainerAwareLightEndRoutineHandler class.
+    - [ContainerAwareLightEndRoutineHandler::__construct](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/ContainerAwareLightEndRoutineHandler/__construct.md) &ndash; Builds the ContainerAwareLightEndRoutineHandler instance.
+    - [ContainerAwareLightEndRoutineHandler::setContainer](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/ContainerAwareLightEndRoutineHandler/setContainer.md) &ndash; Sets the light service container interface.
+    - [LightEndRoutineHandlerInterface::handle](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/LightEndRoutineHandlerInterface/handle.md) &ndash; Executes the end routine.
 - [LightEndRoutineHandlerInterface](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/LightEndRoutineHandlerInterface.md) &ndash; The LightEndRoutineHandlerInterface interface.
     - [LightEndRoutineHandlerInterface::handle](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Handler/LightEndRoutineHandlerInterface/handle.md) &ndash; Executes the end routine.
 - [Light_EndRoutineService](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService.md) &ndash; The Light_EndRoutineService class.
