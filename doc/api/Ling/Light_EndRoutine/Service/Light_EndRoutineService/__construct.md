@@ -46,7 +46,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [Light_EndRoutineService::__construct](https://github.com/lingtalfi/Light_EndRoutine/blob/master/Service/Light_EndRoutineService.php#L25-L28)
+See the source code for method [Light_EndRoutineService::__construct](https://github.com/lingtalfi/Light_EndRoutine/blob/master/Service/Light_EndRoutineService.php#L33-L36)
 
 
 See Also

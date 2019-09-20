@@ -3,6 +3,8 @@
 
 namespace Ling\Light_EndRoutine\Service;
 
+use Ling\Light\ServiceContainer\LightServiceContainerAwareInterface;
+use Ling\Light\ServiceContainer\LightServiceContainerInterface;
 use Ling\Light_EndRoutine\Handler\LightEndRoutineHandlerInterface;
 
 /**
@@ -18,6 +20,12 @@ class Light_EndRoutineService
      * @var LightEndRoutineHandlerInterface[]
      */
     protected $handlers;
+
+    /**
+     * This property holds the container for this instance.
+     * @var LightServiceContainerInterface
+     */
+    protected $container;
 
     /**
      * Builds the Light_EndRoutineService instance.
@@ -37,7 +45,22 @@ class Light_EndRoutineService
     public function registerHandler(string $identifier, LightEndRoutineHandlerInterface $handler)
     {
         $this->handlers[$identifier] = $handler;
+        if ($handler instanceof LightServiceContainerAwareInterface) {
+            $handler->setContainer($this->container);
+        }
     }
+
+    /**
+     * Sets the container.
+     *
+     * @param LightServiceContainerInterface $container
+     */
+    public function setContainer(LightServiceContainerInterface $container)
+    {
+        $this->container = $container;
+    }
+
+
 
 
     /**

@@ -54,6 +54,10 @@ end_routine:
 History Log
 =============
 
+- 1.1.0 -- 2019-09-20
+
+    - update Light_EndRoutineService now accepts and transmits service container
+    
 - 1.0.0 -- 2019-09-19
 
     - initial commit

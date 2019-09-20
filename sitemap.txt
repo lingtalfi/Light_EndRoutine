@@ -4,6 +4,7 @@ https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_End
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/__construct.md
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/executeEndRoutines.md
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/registerHandler.md
+https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/setContainer.md
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService.md
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine.md
 https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/pages/conception-notes.md

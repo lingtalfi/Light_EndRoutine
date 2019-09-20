@@ -53,7 +53,7 @@ Returns void.
 
 Source Code
 ===========
-See the source code for method [Light_EndRoutineService::registerHandler](https://github.com/lingtalfi/Light_EndRoutine/blob/master/Service/Light_EndRoutineService.php#L37-L40)
+See the source code for method [Light_EndRoutineService::registerHandler](https://github.com/lingtalfi/Light_EndRoutine/blob/master/Service/Light_EndRoutineService.php#L45-L51)
 
 
 See Also
@@ -61,5 +61,5 @@ See Also
 
 The [Light_EndRoutineService](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService.md) class.
 
-Previous method: [__construct](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/__construct.md)<br>Next method: [executeEndRoutines](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/executeEndRoutines.md)<br>
+Previous method: [__construct](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/__construct.md)<br>Next method: [setContainer](https://github.com/lingtalfi/Light_EndRoutine/blob/master/doc/api/Ling/Light_EndRoutine/Service/Light_EndRoutineService/setContainer.md)<br>
 
