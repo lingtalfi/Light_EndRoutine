@@ -4,7 +4,7 @@ Light_EndRoutine
 
 
 
-UPDATE 2019-12--19: This plugin is now deprecated since Light uses the [Light.end_routine event](https://github.com/lingtalfi/Light/blob/master/personal/mydoc/pages/events.md)
+UPDATE 2019-12--19: This plugin is now deprecated since Light uses the [Ling.Light.end_routine event](https://github.com/lingtalfi/Light/blob/master/personal/mydoc/pages/events.md)
 instead. 
 
 
@@ -62,6 +62,10 @@ end_routine:
 
 History Log
 =============
+
+- 1.3.4 -- 2021-05-10
+
+    - Fix assets missing.
 
 - 1.3.3 -- 2021-03-05
 
