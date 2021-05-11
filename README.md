@@ -63,6 +63,10 @@ end_routine:
 History Log
 =============
 
+- 1.3.5 -- 2021-05-11
+
+    - Update deps (by CommitWizard).
+
 - 1.3.4 -- 2021-05-10
 
     - Fix assets missing.
